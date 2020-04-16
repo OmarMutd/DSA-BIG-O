@@ -1,0 +1,5 @@
+1.
+ - Constant time (Plucking out one dog from the array of dogs) [01]
+ - Linear time (going through the whole array) [0n]
+ 
+ 2. Contant time (one operation returning single value boolean) [01]
