@@ -8,4 +8,6 @@
 
  4. Linear (going through array once) [On]
 
- 5. 
+ 5. Linear (going through array once) [On]
+
+ 6. Polynomial (nested loops going up linear) [O(n^k)]
